@@ -1,5 +1,7 @@
 # To-do List
 
+<img width="546" alt="스크린샷 2022-09-07 오전 9 26 59" src="https://user-images.githubusercontent.com/79528323/188762655-b9210db7-1419-42f0-ac64-03f0273abea8.png">
+
 Vue3 CLI를 이용하여 제작한 To-do List 입니다.
 
 백엔드는 별도로 구성하지 않고 로컬 json server를 이용하였습니다.
