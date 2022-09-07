@@ -1,4 +1,6 @@
-# vue3-project
+# 07 Todo-List 만들기 (3)
+
+26. vue-router 설치하기
 
 ## Project setup
 ```
@@ -10,15 +12,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### json server
 ```
-npm run build
+json-server --watch db.json
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
