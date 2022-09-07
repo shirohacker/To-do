@@ -16,8 +16,12 @@ Vue3 CLI를 이용하여 제작한 To-do List 입니다.
 
 # Project setup
 
-`npm install`
+```
+npm install
+```
 
 # Compiles and hot-reloads for development
 
-`npm run serve -- --port 3000`
+```
+npm run serve -- --port 3000
+```
