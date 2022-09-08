@@ -11,11 +11,10 @@ Vue3 CLI를 이용하여 제작한 To-do List 입니다.
 # Function
 
 - NavBar
-- Todo 추가
-- Todo 삭제
-- Todo 수정
-- Todo 검색
-- Todo 조회
+- Pagination
+- Notification
+- Todo 추가/삭제/수정
+- Todo 검색/조회
 
 # Project setup
 
