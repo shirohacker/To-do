@@ -1,6 +1,6 @@
-# To-do List
+# To-do List (Vue 3)
 
-<img width="546" alt="스크린샷 2022-09-07 오전 9 26 59" src="https://user-images.githubusercontent.com/79528323/188762655-b9210db7-1419-42f0-ac64-03f0273abea8.png">
+<img width="1047" alt="스크린샷 2022-09-08 오후 5 13 46" src="https://user-images.githubusercontent.com/79528323/189071167-08c3991a-77ad-4642-9caf-6aa7c947fd82.png">
 
 Vue3 CLI를 이용하여 제작한 To-do List 입니다.
 
@@ -10,9 +10,12 @@ Vue3 CLI를 이용하여 제작한 To-do List 입니다.
 
 # Function
 
+- NavBar
 - Todo 추가
 - Todo 삭제
+- Todo 수정
 - Todo 검색
+- Todo 조회
 
 # Project setup
 
@@ -23,5 +26,10 @@ npm install
 # Compiles and hot-reloads for development
 
 ```
-npm run serve -- --port 3000
+npm run serve
+```
+
+# json-server
+```
+json-server --watch db.json
 ```
